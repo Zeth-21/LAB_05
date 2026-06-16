@@ -1,0 +1,14 @@
+{
+  "name": "bruno-ferrini-checkout-tdd",
+  "version": "1.0.0",
+  "description": "Laboratorio 05 - Pruebas Unitarias Automatizadas con TDD",
+  "main": "src/checkout/checkoutBrunoFerrini.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
